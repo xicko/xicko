@@ -46,8 +46,9 @@
        style="height: 200px; width: auto;"/>
 </div>
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xicko&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+
+<!--## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=xicko&theme=nord&no-frame=true&no-bg=false&margin-w=4)-->
 
 ##
 [![](https://visitcount.itsvg.in/api?id=xicko&icon=2&color=12)](https://visitcount.itsvg.in)
