@@ -38,7 +38,7 @@
 <sub>Design</sub><div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=Adobe%20Photoshop&logoColor=white" alt="Adobe Photoshop" style="height: 30px; width: auto;"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" style="height: 30px; width: auto;"/>
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom" style="height: 30px; width: auto;"/>
+  <!-- <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white" alt="Adobe Lightroom" style="height: 30px; width: auto;"/> -->
 </div>
 
 ## GitHub Stats:
